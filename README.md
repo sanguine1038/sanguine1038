@@ -11,8 +11,8 @@ Your Turn To Die: -Jackleg Participants-
 
 older projects
 --
-FNF: Mafia Massacre - Coder  
-FNF: Second-Rate Smackdown - Artist, Coder
+[FNF: Mafia Massacre](https://gamebanana.com/mods/290827) - Coder  
+[FNF: Second-Rate Smackdown](https://gamebanana.com/mods/296236) - Artist, Coder
 <!---
 sanguine1038/sanguine1038 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
