@@ -11,7 +11,7 @@ current projects
 
 older projects
 --
-[Carol in Psych Engine](https://gamebanana.com/mods/353582) - Animator, Coder
+[Carol in Psych Engine](https://gamebanana.com/mods/353582) - Animator, Coder 
 [FNF: Mafia Massacre](https://gamebanana.com/mods/290827) - Coder  
 [FNF: Second-Rate Smackdown](https://gamebanana.com/mods/296236) - Artist, Coder
 <!---
