@@ -7,7 +7,7 @@ you can reach me through my [twitter](twitter.com/@sanguine1038).
 
 current projects
 --
-[Your Turn To Die: -Jackleg Participants-](https://sanguine1038.itch.io/jackleg-participants)
+[Your Turn To Die: -Jackleg Participants-](https://sanguine1038.itch.io/jackleg-participants) - Coder, Artist, Writer
 
 older projects
 --
