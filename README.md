@@ -9,8 +9,9 @@ current projects
 --
 [Your Turn To Die: -Jackleg Participants-](https://sanguine1038.itch.io/jackleg-participants) - Coder, Artist, Writer
 
-older projects
+finished
 --
+[Skin Ridden](https://sanguine1038.itch.io/skin-ridden) - Coder  
 [Carol in Psych Engine](https://gamebanana.com/mods/353582) - Animator, Coder  
 [FNF: Mafia Massacre](https://gamebanana.com/mods/290827) - Coder  
 [FNF: Second-Rate Smackdown](https://gamebanana.com/mods/296236) - Artist, Coder
