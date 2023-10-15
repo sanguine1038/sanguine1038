@@ -1,4 +1,4 @@
-hi, im sanguine1038. im 17, high schooler in my senior year and go by she/them. im interested in game projects for yttd, fnf and unity. im currently learning rpg maker mv and making a yttd fan game.    
+hi, im sanguine1038. im 18 and go by she/them. im interested in learning programming. im currently learning rpg maker mv and making a yttd fan game.    
 all the work i do is not for money, as of now anyways.
 
 you can reach me through my [twitter](twitter.com/@sanguine1038). 
@@ -11,7 +11,7 @@ current projects
 
 finished
 --
-[Skin Ridden](https://sanguine1038.itch.io/skin-ridden) - Coder  
+[Skin Ridden](https://sanguine1038.itch.io/skin-ridden) - Coder, Writer  
 [Carol in Psych Engine](https://gamebanana.com/mods/353582) - Animator, Coder  
 [FNF: Mafia Massacre](https://gamebanana.com/mods/290827) - Coder  
 [FNF: Second-Rate Smackdown](https://gamebanana.com/mods/296236) - Artist, Coder
