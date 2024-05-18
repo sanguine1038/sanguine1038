@@ -1,4 +1,4 @@
-hi, im sanguine1038. im 18 and go by she/them. im interested in learning programming. im currently learning rpg maker mv and making a yttd fan game.    
+hi, im sanguine1038. i go by she/them. im interested in learning programming. im currently learning rpg maker mv and making a yttd fan game.    
 all the work i do is not for money, as of now anyways.
 
 you can reach me through my [twitter](twitter.com/@sanguine1038). 
