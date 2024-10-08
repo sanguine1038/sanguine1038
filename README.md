@@ -1,7 +1,7 @@
 hi, im sanguine1038. i go by she/them. im interested in learning programming. im currently learning rpg maker mv and making a yttd fan game.    
 all the work i do is not for money, as of now anyways.
 
-you can reach me through my [twitter](twitter.com/@sanguine1038). 
+you can reach me through my [twitter](https://twitter.com/@sanguine1038). 
 
 -----
 
@@ -11,6 +11,7 @@ current projects
 
 finished
 --
+[JLP World of Horror Expansion](https://github.com/sanguine1038/JLP-World-of-Horror-Expansion)
 [Skin Ridden](https://sanguine1038.itch.io/skin-ridden) - Coder, Writer  
 [Carol in Psych Engine](https://gamebanana.com/mods/353582) - Animator, Coder  
 [FNF: Mafia Massacre](https://gamebanana.com/mods/290827) - Coder  
