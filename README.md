@@ -1,10 +1,3 @@
-hi, im sanguine1038. i go by she/them. im interested in learning programming. im currently learning rpg maker mv and making a yttd fan game.    
-all the work i do is not for money, as of now anyways.
-
-you can reach me through my [twitter](https://twitter.com/@sanguine1038). 
-
------
-
 current projects
 --
 [Your Turn To Die: -Jackleg Participants-](https://sanguine1038.itch.io/jackleg-participants) - Coder, Artist, Writer
